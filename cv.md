@@ -21,12 +21,12 @@ https://codepen.io/kseniyakerzhner/pen/eYVRygz
 ## Courses:  
 
 - HTML academy
-- CS50
+- YouTube video CS50
 - freeCodeCamp
 - Netoligy course "Website layout basics"
 
 ## Languages:  
 
 - Russian - native
-- English is somewhere between B1 Intermediate and B2 Upper Intermediate according to the Common European Framework of Reference, also known as the CEFR.
+- English - somewhere between B1 Intermediate and B2 Upper Intermediate according to the Common European Framework of Reference, also known as the CEFR.
 - Spanish - basic
