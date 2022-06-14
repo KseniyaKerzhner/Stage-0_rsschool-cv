@@ -1,1 +1,14 @@
-
+body {
+    font-family: 'Oswald', sans-serif;
+    min-height: 100vh
+  }
+  
+  * {
+      box-sizing: border-box;
+    }
+  .header {
+    border: 2px solid blue;
+  }
+  .footer {
+    border: 2px solid blue;
+  }
