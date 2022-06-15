@@ -3,10 +3,19 @@
       box-sizing: border-box;
     }
   .header {
-    border: 2px solid blue;
+    border: 2px solid rgb(110, 194, 243);
+	background-color:lightslategray;
   }
+	nav > ul > li > a {
+		color: aliceblue;
+	}
+
+	li>a{
+		color: black;
+	}
+
   .footer {
-    border: 2px solid blue;
+    border: 2px solid rgb(110, 194, 243);
   }
 
   body {
