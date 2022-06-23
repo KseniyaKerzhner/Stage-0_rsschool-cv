@@ -3,8 +3,8 @@
       box-sizing: border-box;
     }
   .header {
-    border: 2px solid rgb(110, 194, 243);
-	background-color:lightslategray;
+    border: 2px solid rgb(3, 39, 59);
+	  background-color: rgb(3, 39, 59);
   }
 	nav > ul > li > a {
 		color: aliceblue;
@@ -15,7 +15,8 @@
 	}
 
   .footer {
-    border: 2px solid rgb(110, 194, 243);
+    border: 2px solid rgb(3, 39, 59);
+	  background-color: rgb(3, 39, 59);
   }
 
   body {
@@ -42,4 +43,17 @@
   .nav-link {
     padding: 0 20px;
     line-height: 50px;
+  }
+
+  .absolute-position{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+  }
+  main{
+    background-color: rgb(214, 235, 247);
+  }
+
+  .block {
+    padding: 20px;
   }
