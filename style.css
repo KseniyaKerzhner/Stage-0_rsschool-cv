@@ -2,10 +2,21 @@
   * {
       box-sizing: border-box;
     }
+
+	html {
+		scroll-behavior: smooth; /*плавная прокрутка при переходе по сылкам в документе*/
+	}
+
+	.wrapper {
+		width: 1440px;
+		margin: 0 auto;
+		overflow: hidden;
+	}
+
   .header {
     border: 2px solid rgb(3, 39, 59);
 	  background-color: rgb(3, 39, 59);
-  }
+  	}
 	nav > ul > li > a {
 		color: aliceblue;
 	}
@@ -14,10 +25,10 @@
 		color: black;
 	}
 
-  .footer {
-    border: 2px solid rgb(3, 39, 59);
-	  background-color: rgb(3, 39, 59);
-  }
+	.footer {
+		border: 2px solid rgb(3, 39, 59);
+		background-color: rgb(3, 39, 59);
+	}
 
   body {
     font-family: 'Joan', serif;
