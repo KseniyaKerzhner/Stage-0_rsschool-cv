@@ -14,8 +14,8 @@
 	}
 
   .header {
-    border: 2px solid rgb(3, 39, 59);
-	  background-color: rgb(3, 39, 59);
+    border: 2px solid rgb(18, 84, 119);
+	  background-color: rgb(18, 84, 119);
   	}
 	nav > ul > li > a {
 		color: aliceblue;
@@ -26,8 +26,8 @@
 	}
 
 	.footer {
-		border: 2px solid rgb(3, 39, 59);
-		background-color: rgb(3, 39, 59);
+		border: 2px solid rgb(18, 84, 119);
+		background-color: rgb(18, 84, 119);
 	}
 
   body {
@@ -39,6 +39,7 @@
   .container {
     max-width: 1440px;
     margin: 0 auto;
+	padding: 20px;
   }
 
   .nav-list {
@@ -57,7 +58,7 @@
   }
 
   .absolute-position{
-    position: absolute;
+    position: static;
     top: 100px;
     left: 500px;
   }
