@@ -18,6 +18,8 @@ html {
 	background-color: rgb(18, 84, 119);
 }
 
+
+
 nav>ul>li>a {
 	color: aliceblue;
 }
@@ -35,13 +37,17 @@ body {
 	font-family: 'Joan', serif;
 	display: flex;
 	flex-direction: column;
-	justify-content: space-between;
+	justify-content: end;
+	
 }
 
 .container {
 	max-width: 1440px;
 	margin: 0 auto;
 	padding: 20px;
+	display: flex;
+    justify-content: flex-end
+	
 }
 
 .nav-list {
@@ -59,12 +65,23 @@ body {
 	line-height: 50px;
 }
 
-.absolute-position {
-	position: static;
-	top: 100px;
-	left: 500px;
+.ul-contacts {
+
+	list-style-type: none;
 }
 
 main {
 	background-color: rgb(214, 235, 247);
+}
+
+.main_content {
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+	
+}
+
+.container1 {
+	display: flex;
+	padding: 35px;
 }
