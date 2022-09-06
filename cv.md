@@ -22,7 +22,8 @@ function toBinary(n){
 ## Experience:
 https://codepen.io/kseniyakerzhner/pen/MWrXVKO<br>
 https://codepen.io/kseniyakerzhner/pen/oNELJZb<br>
-https://codepen.io/kseniyakerzhner/pen/eYVRygz
+https://codepen.io/kseniyakerzhner/pen/eYVRygz<br>
+https://rolling-scopes-school.github.io/kseniyakerzhner-JSFEPRESCHOOL2022Q2/travel/
 
 ## Courses:
 - HTML academy
