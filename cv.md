@@ -1,7 +1,7 @@
 # Kseniya Kerzhner
 
 ## Contacts
-- telegram: https://t.me/KerzhnerKseniya
+- [telegram](https://t.me/KerzhnerKseniya/)
 - e-mail: kerzhnerkb@gmail.com  
 - discord: Kseniya(@KseniyaKerzhner) Dea#0287
 
